@@ -7,6 +7,7 @@ This project simulates and analyzes a user onboarding funnel similar to what Str
 
 The goal of this analysis is to replicate real-world product analytics and provide actionable insights that could support business strategy, marketing, and product optimization at a company like Stripe.
 
+[View the interactive dashboard](https://lookerstudio.google.com/reporting/0d94826b-cfbd-421f-868d-df71186eeffe)
 ---
 
 
@@ -48,4 +49,3 @@ This project was developed as part of a tailored job application to Stripe. It d
 
 **Nathaniel Lastrapes**  
 [LinkedIn](https://www.linkedin.com/in/nathaniellastrapes)  
-[Portfolio](#) *(add link once live)*
