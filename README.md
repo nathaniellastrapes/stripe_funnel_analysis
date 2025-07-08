@@ -9,16 +9,6 @@ The goal of this analysis is to replicate real-world product analytics and provi
 
 ---
 
-## 🗂️ Project Structure
-stripe_funnel_analysis/
-├── data/                  # Simulated CSV data for users, events, and transactions
-├── scripts/               # Python script used to generate simulated data
-├── notebooks/
-│   └── funnel_analysis.ipynb  # Exploratory analysis and KPI calculations
-├── executive_summary.md   # Business-friendly summary of insights and recommendations
-└── README.md              # This file
-
----
 
 ## 📊 Key Features
 
