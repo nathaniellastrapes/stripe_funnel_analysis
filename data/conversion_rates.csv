@@ -1,0 +1,4 @@
+Stage Transition,Conversion Rate (%)
+email_verified → business_info_submitted,76.24
+business_info_submitted → kyc_completed,62.61
+kyc_completed → first_payment,49.07
